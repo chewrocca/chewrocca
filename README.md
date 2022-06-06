@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api?username=chewrocca&show_icons=true&theme=dracula
+![gk's github stats](https://github-readme-stats.vercel.app/api?username=chewrocca&show_icons=true&theme=dracula)
 
 <!--
 **chewrocca/chewrocca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
