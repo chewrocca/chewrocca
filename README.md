@@ -18,6 +18,3 @@
   <a href="https://easytyger.com"><img src="https://img.shields.io/badge/Website-00bfff?logo=google-chrome&logoColor=white" alt="Easytyger"></a>
 </p>
 
-## 🏆 GitHub Stats:
-![chewrocca's GitHub stats](https://github-readme-stats.vercel.app/api?username=chewrocca&show_icons=true&theme=dracula)
-
