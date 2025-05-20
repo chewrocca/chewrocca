@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="images/easytyger_palm.jpeg" alt="Palm Tree" width="300"/>
-</p>
-
 # 👋 Howdy
 
 ## 🌱 About Me
