@@ -21,6 +21,3 @@
 ## 🏆 GitHub Stats:
 ![chewrocca's GitHub stats](https://github-readme-stats.vercel.app/api?username=chewrocca&show_icons=true&theme=dracula)
 
-![](https://github.com/chewrocca/stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/chewrocca/stats/blob/master/generated/overview.svg#gh-light-mode-only)
-
