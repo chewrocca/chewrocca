@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" alt="Kubernetes">
 </p>
 
-🤖 **AI × o11y** — exploring how LLMs and AIOps cut through alert fatigue, power root cause analysis, and help engineers focus on what actually matters.
+🤖 **AI × o11y** | exploring how LLMs and AIOps cut through alert fatigue, power root cause analysis, and help engineers focus on what actually matters.
 
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square" alt="OpenAI">
