@@ -12,7 +12,7 @@
 
 ---
 
-🔭 **Observability engineer** obsessed with turning distributed system noise into signal. I run a full **LGTM stack** — metrics, logs, traces, and profiles — instrumented end-to-end with **OpenTelemetry**, visualised in **Grafana**. Because understanding your system shouldn't require a PhD.
+🔭 **Observability engineer** dedicated to turning distributed system noise into signal. I run a full **LGTM stack** — metrics, logs, traces, and profiles — instrumented end-to-end with **OpenTelemetry**, visualised in **Grafana**. Because understanding your system shouldn't require a PhD.
 
 <p>
   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square" alt="Grafana">
