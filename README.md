@@ -30,6 +30,8 @@
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square" alt="OpenAI">
   <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub Copilot">
+  <img src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white&style=flat-square" alt="Claude">
+  <img src="https://img.shields.io/badge/Cursor-181717?logo=cursor&logoColor=white&style=flat-square" alt="Cursor">
 </p>
 
 🏙️ Organiser of **[Grafana & Friends Austin](https://www.meetup.com/grafana-friends-austin-meetup-group/)** — come talk o11y in Texas 🤠 &nbsp;·&nbsp; 🎹 Learning piano *(slowly but surely)*
