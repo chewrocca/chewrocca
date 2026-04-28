@@ -16,10 +16,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square" alt="Grafana">
-  <img src="https://img.shields.io/badge/Mimir-AA00FF?style=flat-square&logoColor=white" alt="Mimir">
-  <img src="https://img.shields.io/badge/Loki-F5A623?style=flat-square&logoColor=white" alt="Loki">
-  <img src="https://img.shields.io/badge/Tempo-E6522C?style=flat-square&logoColor=white" alt="Tempo">
-  <img src="https://img.shields.io/badge/Pyroscope-E91E63?style=flat-square&logoColor=white" alt="Pyroscope">
+  <img src="https://img.shields.io/badge/Mimir-AA00FF?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNCAxNCI%2BPHBhdGggZD0iTTEgMTNWN2gzdjZ6bTQgMFY0aDN2OXptNSAwVjFoM3YxMnoiIGZpbGw9IndoaXRlIi8%2BPC9zdmc%2B&logoColor=white&style=flat-square" alt="Mimir">
+  <img src="https://img.shields.io/badge/Loki-F5A623?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNCAxNCI%2BPHBhdGggZD0iTTEgMmgxMnYySDF6bTAgNWg4djJIMXptMCA1aDEwdjJIMXoiIGZpbGw9IndoaXRlIi8%2BPC9zdmc%2B&logoColor=white&style=flat-square" alt="Loki">
+  <img src="https://img.shields.io/badge/Tempo-E6522C?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNCAxNCI%2BPHBhdGggZD0iTTEgMmgxMnYySDF6bTIgNWg4djJIM3ptMyA1aDR2Mkg2eiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white&style=flat-square" alt="Tempo">
+  <img src="https://img.shields.io/badge/Pyroscope-E91E63?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNCAxNCI%2BPHBhdGggZD0iTTcgMEM1IDQgMiA1IDIgOWE1IDUgMCAwMDEwIDBjMC00LTMtNS01LTl6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white&style=flat-square" alt="Pyroscope">
   <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?logo=opentelemetry&logoColor=white&style=flat-square" alt="OpenTelemetry">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square" alt="Prometheus">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" alt="Kubernetes">
