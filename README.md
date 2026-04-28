@@ -14,12 +14,7 @@
 
 🔭 **Observability engineer** dedicated to turning distributed system noise into signal. I run a full **LGTM stack** — metrics, logs, traces, and profiles — instrumented end-to-end with **OpenTelemetry**, visualised in **Grafana**. Because understanding your system shouldn't require a PhD.
 
-<p>
-  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square" alt="Grafana">
-  <img src="https://img.shields.io/badge/Mimir-AA00FF?style=flat-square&logoColor=white" alt="Mimir">
-  <img src="https://img.shields.io/badge/Loki-F5A623?style=flat-square&logoColor=white" alt="Loki">
-  <img src="https://img.shields.io/badge/Tempo-E6522C?style=flat-square&logoColor=white" alt="Tempo">
-  <img src="https://img.shields.io/badge/Pyroscope-E91E63?style=flat-square&logoColor=white" alt="Pyroscope">
+<p><img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square" alt="Grafana"><img src="https://img.shields.io/badge/Loki-F5A623?style=flat-square" alt="Loki"><img src="https://img.shields.io/badge/Mimir-AA00FF?style=flat-square" alt="Mimir"><img src="https://img.shields.io/badge/Pyroscope-E91E63?style=flat-square" alt="Pyroscope"><img src="https://img.shields.io/badge/Tempo-E6522C?style=flat-square" alt="Tempo">
   <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?logo=opentelemetry&logoColor=white&style=flat-square" alt="OpenTelemetry">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square" alt="Prometheus">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" alt="Kubernetes">
@@ -28,7 +23,7 @@
 🤖 **AI × o11y** | exploring how LLMs and AIOps cut through alert fatigue, power root cause analysis, and help engineers focus on what actually matters.
 
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square" alt="OpenAI">
+  <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white&style=flat-square" alt="ChatGPT">
   <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub Copilot">
   <img src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white&style=flat-square" alt="Claude">
   <img src="https://img.shields.io/badge/Cursor-181717?logo=cursor&logoColor=white&style=flat-square" alt="Cursor">
@@ -55,7 +50,7 @@
 <p align="center">
   <a href="mailto:chewrocca@easytyger.com"><img src="https://img.shields.io/badge/Email-grey?logo=gmail&style=flat-square" alt="Email"></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/finematthew/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/finematthew/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTYuOTQgNWEyIDIgMCAxMS00LS4wMDJBMiAyIDAgMDE2Ljk0IDV6TTcgOC40OEgzVjIxaDRWOC40OHptNi4zMiAwSDkuMzRWMjFoMy45NHYtNi41N2MwLTMuNjYgNC43Ny00IDQuNzcgMFYyMUgyMnYtNy45M2MwLTYuMTctNy4wNi01Ljk0LTguNzItMi45MWwuMDQtMS42OHoiIGZpbGw9IndoaXRlIi8%2BPC9zdmc%2B&logoColor=white&style=flat-square" alt="LinkedIn"></a>
   &nbsp;
   <a href="https://github.com/chewrocca"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub"></a>
   &nbsp;
