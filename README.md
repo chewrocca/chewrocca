@@ -23,7 +23,7 @@
 🤖 **AI × o11y** | exploring how LLMs and AIOps cut through alert fatigue, power root cause analysis, and help engineers focus on what actually matters.
 
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square" alt="OpenAI">
+  <img src="https://img.shields.io/badge/ChatGPT-412991?logo=chatgpt&logoColor=white&style=flat-square" alt="ChatGPT">
   <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub Copilot">
   <img src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white&style=flat-square" alt="Claude">
   <img src="https://img.shields.io/badge/Cursor-181717?logo=cursor&logoColor=white&style=flat-square" alt="Cursor">
