@@ -22,27 +22,19 @@ I build the plumbing that turns a noisy distributed system into something you ca
 
 Organiser of **[Grafana &amp; Friends Austin](https://www.meetup.com/grafana-friends-austin-meetup-group/)**. If you're in town, come talk o11y with us 🤠
 
-### The stack I run
-
-<p><sub>GRAFANA STACK</sub><br>
-<img src="https://img.shields.io/badge/Loki-F5A623?style=flat-square" alt="Loki">&nbsp;<img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square" alt="Grafana">&nbsp;<img src="https://img.shields.io/badge/Tempo-E6522C?style=flat-square" alt="Tempo">&nbsp;<img src="https://img.shields.io/badge/Mimir-AA00FF?style=flat-square" alt="Mimir">&nbsp;<img src="https://img.shields.io/badge/Pyroscope-E91E63?style=flat-square" alt="Pyroscope"></p>
-<p><sub>COLLECTION</sub><br>
-<img src="https://img.shields.io/badge/OpenTelemetry-181717?logo=opentelemetry&logoColor=425CC7&style=flat-square" alt="OpenTelemetry">&nbsp;<img src="https://img.shields.io/badge/Prometheus-181717?logo=prometheus&logoColor=E6522C&style=flat-square" alt="Prometheus"></p>
-<p><sub>PLATFORM</sub><br>
-<img src="https://img.shields.io/badge/Talos-181717?logo=talos&logoColor=FF7300&style=flat-square" alt="Talos">&nbsp;<img src="https://img.shields.io/badge/Kubernetes-181717?logo=kubernetes&logoColor=326CE5&style=flat-square" alt="Kubernetes">&nbsp;<img src="https://img.shields.io/badge/Argo%20CD-181717?logo=argo&logoColor=EF7B4D&style=flat-square" alt="Argo CD"></p>
-<p><sub>BUILD</sub><br>
-<img src="https://img.shields.io/badge/Go-181717?logo=go&logoColor=00ADD8&style=flat-square" alt="Go">&nbsp;<img src="https://img.shields.io/badge/Terraform-181717?logo=terraform&logoColor=844FBA&style=flat-square" alt="Terraform"></p>
+<p><sub>GRAFANA STACK</sub>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Loki-F5A623?style=flat-square" alt="Loki">&nbsp;<img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square" alt="Grafana">&nbsp;<img src="https://img.shields.io/badge/Tempo-E6522C?style=flat-square" alt="Tempo">&nbsp;<img src="https://img.shields.io/badge/Mimir-AA00FF?style=flat-square" alt="Mimir">&nbsp;<img src="https://img.shields.io/badge/Pyroscope-E91E63?style=flat-square" alt="Pyroscope"></p>
+<p><sub>COLLECTION</sub>&nbsp;&nbsp;<img src="https://img.shields.io/badge/OpenTelemetry-181717?logo=opentelemetry&logoColor=425CC7&style=flat-square" alt="OpenTelemetry">&nbsp;<img src="https://img.shields.io/badge/Prometheus-181717?logo=prometheus&logoColor=E6522C&style=flat-square" alt="Prometheus"></p>
+<p><sub>PLATFORM</sub>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Talos-181717?logo=talos&logoColor=FF7300&style=flat-square" alt="Talos">&nbsp;<img src="https://img.shields.io/badge/Kubernetes-181717?logo=kubernetes&logoColor=326CE5&style=flat-square" alt="Kubernetes">&nbsp;<img src="https://img.shields.io/badge/Argo%20CD-181717?logo=argo&logoColor=EF7B4D&style=flat-square" alt="Argo CD"></p>
+<p><sub>BUILD</sub>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Go-181717?logo=go&logoColor=00ADD8&style=flat-square" alt="Go">&nbsp;<img src="https://img.shields.io/badge/Terraform-181717?logo=terraform&logoColor=844FBA&style=flat-square" alt="Terraform"></p>
 
 ### What I'm building
 
 **[bambu-sync](https://github.com/chewrocca/bambu-sync)** &nbsp;<img src="https://img.shields.io/badge/Go-181717?logo=go&logoColor=00ADD8&style=flat-square" alt="Go"><br>
-Prometheus exporter for the Bambu Lab Cloud API: print history, RFID filament inventory, MakerWorld favourites. Companion to the MQTT exporters, not a replacement.
+Prometheus exporter for the Bambu Lab Cloud API: print history, RFID filament inventory, MakerWorld favourites.
 
 ### Off the clock
 
 🖨️ &nbsp;3D printing &nbsp;·&nbsp; 🍳 &nbsp;cooking &nbsp;·&nbsp; 🎹 &nbsp;learning piano, slowly but surely.
-
----
 
 <div align="center">
 
