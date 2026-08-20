@@ -1,59 +1,63 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F46800&center=true&vCenter=true&width=640&lines=Observability+Engineer+%7C+o11y;Running+the+LGTM+Stack;Grafana+Champion+%F0%9F%8F%86;Making+complex+systems+understandable" alt="Typing SVG" />
+<h1>Matthew&nbsp;Fine</h1>
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/role-observability%20engineer-F46800?style=for-the-badge&labelColor=181717" alt="Role: observability engineer">
+  <img src="https://img.shields.io/badge/stack-LGTM%20%2B%20OTel-F46800?style=for-the-badge&labelColor=181717" alt="Stack: LGTM + OpenTelemetry">
+  <img src="https://img.shields.io/badge/based-Austin%2C%20TX-F46800?style=for-the-badge&labelColor=181717" alt="Based in Austin, TX">
+</p>
 
-<a href="https://grafana.com/community/champions/"><img src="https://img.shields.io/badge/Grafana%20Champion-F46800?logo=grafana&logoColor=white&style=for-the-badge" alt="Grafana Champion"></a>
-&nbsp;
-<a href="https://www.meetup.com/grafana-friends-austin-meetup-group/"><img src="https://img.shields.io/badge/Grafana%20%26%20Friends%20Austin-ED1C40?logo=meetup&logoColor=white&style=for-the-badge" alt="Grafana & Friends Austin"></a>
+<p>
+  <a href="https://grafana.com/community/champions/"><img src="https://img.shields.io/badge/Grafana%20Champion-F46800?logo=grafana&logoColor=white&style=for-the-badge" alt="Grafana Champion"></a>
+  &nbsp;
+  <a href="https://www.meetup.com/grafana-friends-austin-meetup-group/"><img src="https://img.shields.io/badge/Grafana%20%26%20Friends%20Austin-181717?logo=meetup&logoColor=ED1C40&style=for-the-badge" alt="Organiser of Grafana &amp; Friends Austin"></a>
+</p>
 
 </div>
 
 ---
 
-🔭 **Observability engineer** dedicated to turning distributed system noise into signal. I run a full **LGTM stack** — metrics, logs, traces, and profiles — instrumented end-to-end with **OpenTelemetry**, visualised in **Grafana**. Because understanding your system shouldn't require a PhD.
+I build the plumbing that turns a noisy distributed system into something you can actually ask questions of, instrumented end-to-end with **OpenTelemetry** and surfaced in **Grafana**. Because understanding your own system shouldn't require a PhD.
 
-<p><img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square" alt="Grafana"><img src="https://img.shields.io/badge/Loki-F5A623?style=flat-square" alt="Loki"><img src="https://img.shields.io/badge/Mimir-AA00FF?style=flat-square" alt="Mimir"><img src="https://img.shields.io/badge/Pyroscope-E91E63?style=flat-square" alt="Pyroscope"><img src="https://img.shields.io/badge/Tempo-E6522C?style=flat-square" alt="Tempo">
-  <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?logo=opentelemetry&logoColor=white&style=flat-square" alt="OpenTelemetry">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square" alt="Prometheus">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" alt="Kubernetes">
-</p>
+Organiser of **[Grafana &amp; Friends Austin](https://www.meetup.com/grafana-friends-austin-meetup-group/)**. If you're in town, come talk o11y with us 🤠
 
-🤖 **AI × o11y** | exploring how LLMs and AIOps cut through alert fatigue, power root cause analysis, and help engineers focus on what actually matters.
+### The stack I run
 
-<p>
-  <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white&style=flat-square" alt="ChatGPT">
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub Copilot">
-  <img src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white&style=flat-square" alt="Claude">
-  <img src="https://img.shields.io/badge/Cursor-181717?logo=cursor&logoColor=white&style=flat-square" alt="Cursor">
-</p>
+<p><sub>GRAFANA STACK</sub><br>
+<img src="https://img.shields.io/badge/Loki-F5A623?style=flat-square" alt="Loki">&nbsp;<img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square" alt="Grafana">&nbsp;<img src="https://img.shields.io/badge/Tempo-E6522C?style=flat-square" alt="Tempo">&nbsp;<img src="https://img.shields.io/badge/Mimir-AA00FF?style=flat-square" alt="Mimir">&nbsp;<img src="https://img.shields.io/badge/Pyroscope-E91E63?style=flat-square" alt="Pyroscope"></p>
+<p><sub>COLLECTION</sub><br>
+<img src="https://img.shields.io/badge/OpenTelemetry-181717?logo=opentelemetry&logoColor=425CC7&style=flat-square" alt="OpenTelemetry">&nbsp;<img src="https://img.shields.io/badge/Prometheus-181717?logo=prometheus&logoColor=E6522C&style=flat-square" alt="Prometheus"></p>
+<p><sub>PLATFORM</sub><br>
+<img src="https://img.shields.io/badge/Talos-181717?logo=talos&logoColor=FF7300&style=flat-square" alt="Talos">&nbsp;<img src="https://img.shields.io/badge/Kubernetes-181717?logo=kubernetes&logoColor=326CE5&style=flat-square" alt="Kubernetes">&nbsp;<img src="https://img.shields.io/badge/Argo%20CD-181717?logo=argo&logoColor=EF7B4D&style=flat-square" alt="Argo CD"></p>
+<p><sub>BUILD</sub><br>
+<img src="https://img.shields.io/badge/Go-181717?logo=go&logoColor=00ADD8&style=flat-square" alt="Go">&nbsp;<img src="https://img.shields.io/badge/Terraform-181717?logo=terraform&logoColor=844FBA&style=flat-square" alt="Terraform"></p>
 
-🏙️ Organiser of **[Grafana & Friends Austin](https://www.meetup.com/grafana-friends-austin-meetup-group/)** — come talk o11y in Texas 🤠 &nbsp;·&nbsp; 🎹 Learning piano *(slowly but surely)*
+### What I'm building
+
+**[bambu-sync](https://github.com/chewrocca/bambu-sync)** &nbsp;<img src="https://img.shields.io/badge/Go-181717?logo=go&logoColor=00ADD8&style=flat-square" alt="Go"><br>
+Prometheus exporter for the Bambu Lab Cloud API: print history, RFID filament inventory, MakerWorld favourites. Companion to the MQTT exporters, not a replacement.
+
+### Off the clock
+
+🖨️ &nbsp;3D printing &nbsp;·&nbsp; 🍳 &nbsp;cooking &nbsp;·&nbsp; 🎹 &nbsp;learning piano, slowly but surely.
 
 ---
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=chewrocca&show_icons=true&hide_border=true&title_color=F46800&icon_color=F46800&text_color=d9d9d9&bg_color=0d1117&rank_icon=github&card_width=340" alt="GitHub Stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chewrocca/chewrocca/github-breakout/images/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chewrocca/chewrocca/github-breakout/images/breakout-light.svg">
+  <img alt="My GitHub contribution graph, played as a game of Breakout" src="https://raw.githubusercontent.com/chewrocca/chewrocca/github-breakout/images/breakout-light.svg">
+</picture>
+
+<br><br>
+
+<a href="mailto:chewrocca@easytyger.com"><img src="https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=EA4335&style=for-the-badge" alt="Email"></a>
 &nbsp;
-<img height="160" src="https://streak-stats.demolab.com/?user=chewrocca&hide_border=true&ring=F46800&fire=F46800&currStreakLabel=F46800&background=0d1117&stroke=21262d&currStreakNum=d9d9d9&dates=6e7278&sideLabels=8e9097&sideNums=d9d9d9" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chewrocca&bg_color=0d1117&color=F46800&line=F46800&point=F46800&area=true&area_color=F46800&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity" />
+<a href="https://www.linkedin.com/in/finematthew/"><img src="https://img.shields.io/badge/LinkedIn-181717?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTYuOTQgNWEyIDIgMCAxMS00LS4wMDJBMiAyIDAgMDE2Ljk0IDV6TTcgOC40OEgzVjIxaDRWOC40OHptNi4zMiAwSDkuMzRWMjFoMy45NHYtNi41N2MwLTMuNjYgNC43Ny00IDQuNzcgMFYyMUgyMnYtNy45M2MwLTYuMTctNy4wNi01Ljk0LTguNzItMi45MWwuMDQtMS42OHoiIGZpbGw9IiUyMzBBNjZDMiIvPjwvc3ZnPg==&style=for-the-badge" alt="LinkedIn"></a>
+&nbsp;
+<a href="https://easytyger.com"><img src="https://img.shields.io/badge/easytyger.com-181717?logo=googlechrome&logoColor=F46800&style=for-the-badge" alt="easytyger.com"></a>
 
 </div>
-
----
-
-<p align="center">
-  <a href="mailto:chewrocca@easytyger.com"><img src="https://img.shields.io/badge/Email-grey?logo=gmail&style=flat-square" alt="Email"></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/finematthew/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTYuOTQgNWEyIDIgMCAxMS00LS4wMDJBMiAyIDAgMDE2Ljk0IDV6TTcgOC40OEgzVjIxaDRWOC40OHptNi4zMiAwSDkuMzRWMjFoMy45NHYtNi41N2MwLTMuNjYgNC43Ny00IDQuNzcgMFYyMUgyMnYtNy45M2MwLTYuMTctNy4wNi01Ljk0LTguNzItMi45MWwuMDQtMS42OHoiIGZpbGw9IndoaXRlIi8%2BPC9zdmc%2B&logoColor=white&style=flat-square" alt="LinkedIn"></a>
-  &nbsp;
-  <a href="https://github.com/chewrocca"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub"></a>
-  &nbsp;
-  <a href="https://easytyger.com"><img src="https://img.shields.io/badge/easytyger.com-00bfff?logo=google-chrome&logoColor=white&style=flat-square" alt="Website"></a>
-</p>
-
