@@ -174,8 +174,12 @@ that branch inside a `<picture>` that swaps on `prefers-color-scheme`.
 
 ## Caveats
 
-- GitHub's Camo proxy caches images aggressively, so a regenerated SVG can lag
-  behind on the profile for a while.
+- The graph is served straight from `raw.githubusercontent.com`, not through
+  GitHub's Camo proxy: Camo only fronts third-party hosts, and raw is
+  first-party. Verified on the live profile. That means no Camo cache lag, and
+  `cache-control: max-age=300`, so a regenerated SVG appears within 5 minutes.
+  The shields.io badges elsewhere in the README *are* Camo-proxied; do not
+  confuse the two.
 - SMIL cannot honour `prefers-reduced-motion` when served through an `<img>`,
   the same tradeoff breakout already makes.
 - 386 KB is a large README image. Most of it is the sprite strip, and it is
