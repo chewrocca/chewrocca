@@ -38,14 +38,17 @@ Prometheus exporter for the Bambu Lab Cloud API: print history, RFID filament in
 
 <div align="center">
 
+<a href="https://slayrat.com">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chewrocca/chewrocca/github-breakout/images/breakout-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chewrocca/chewrocca/github-breakout/images/breakout-light.svg">
-  <img alt="My GitHub contribution graph, played as a game of Breakout" src="https://raw.githubusercontent.com/chewrocca/chewrocca/github-breakout/images/breakout-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chewrocca/chewrocca/slayrat/images/slayrat-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chewrocca/chewrocca/slayrat/images/slayrat-light.svg">
+  <img alt="My GitHub contribution graph, slashed by Slay Rat" src="https://raw.githubusercontent.com/chewrocca/chewrocca/slayrat/images/slayrat-dark.svg">
 </picture>
+</a>
 
 <br><br>
 
+<p>
 <a href="mailto:chewrocca@easytyger.com"><img src="https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=EA4335&style=for-the-badge" alt="Email"></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/finematthew/"><img src="https://img.shields.io/badge/LinkedIn-181717?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTYuOTQgNWEyIDIgMCAxMS00LS4wMDJBMiAyIDAgMDE2Ljk0IDV6TTcgOC40OEgzVjIxaDRWOC40OHptNi4zMiAwSDkuMzRWMjFoMy45NHYtNi41N2MwLTMuNjYgNC43Ny00IDQuNzcgMFYyMUgyMnYtNy45M2MwLTYuMTctNy4wNi01Ljk0LTguNzItMi45MWwuMDQtMS42OHoiIGZpbGw9IiUyMzBBNjZDMiIvPjwvc3ZnPg==&style=for-the-badge" alt="LinkedIn"></a>
@@ -53,5 +56,6 @@ Prometheus exporter for the Bambu Lab Cloud API: print history, RFID filament in
 <a href="https://easytyger.com"><img src="https://img.shields.io/badge/easytyger.com-181717?logo=googlechrome&logoColor=F46800&style=for-the-badge" alt="easytyger.com"></a>
 &nbsp;
 <a href="https://slayrat.com"><img src="https://img.shields.io/badge/slayrat.com-181717?logo=googlechrome&logoColor=ED1C40&style=for-the-badge" alt="slayrat.com"></a>
+</p>
 
 </div>
