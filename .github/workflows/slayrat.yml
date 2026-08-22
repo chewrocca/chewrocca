@@ -1,0 +1,48 @@
+# Install to the profile repo as .github/workflows/slayrat.yml
+#
+# Renders the contribution graph as Sooz slashing across it and publishes the
+# SVGs to the orphan `slayrat` branch, so the daily regenerated images never
+# touch main's history. The README points at that branch via
+# raw.githubusercontent.com. Mirrors the existing breakout job.
+#
+# No secrets and no pip install: fetch_contrib.py reads the same public endpoint
+# the profile page renders, and gen.py is pure stdlib with the sprite strip
+# committed.
+name: generate slayrat svg
+on:
+  schedule:
+    - cron: "20 4 * * *" # offset from the breakout job so they do not collide
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate-svg:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Fetch contribution calendar
+        run: |
+          python3 github-slayrat/fetch_contrib.py '${{ github.repository_owner }}' \
+            -o github-slayrat/contrib.json
+      - name: Render SVGs
+        run: python3 github-slayrat/gen.py github-slayrat/contrib.json
+      - name: Stage generated SVGs outside the work tree
+        run: |
+          mkdir -p /tmp/slayrat-images
+          mv github-slayrat/out/slayrat-light.svg /tmp/slayrat-images/
+          mv github-slayrat/out/slayrat-dark.svg  /tmp/slayrat-images/
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+      - name: Publish to the slayrat branch
+        run: |
+          git checkout --orphan slayrat
+          git rm -rf .
+          mkdir images
+          mv /tmp/slayrat-images/* images/
+          git add images
+          git commit -m "chore: update Slay Rat contribution SVGs" || echo "No changes to commit"
+          git push --force origin slayrat

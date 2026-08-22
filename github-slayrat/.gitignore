@@ -1,0 +1,9 @@
+# Generated artwork and preview pages: rebuilt by gen.py / build_readme_preview.py
+out/
+
+# Fetched data, refreshed by fetch_contrib.py on every run
+contrib.json
+profile-README.md
+
+__pycache__/
+*.pyc
