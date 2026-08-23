@@ -60,7 +60,7 @@ def fetch_readme(repo, path):
 
 
 def swap(md, mode):
-    """Replace the breakout <picture> with Sooz.
+    """Point the <picture> block at the locally generated SVGs.
 
     mode "picture" keeps the markup we would actually ship, for the sanitizer
     check. "dark"/"light" pin one file so a preview pane cannot drift with the
@@ -178,7 +178,7 @@ def hub(kept, has_picture):
 </style>
 <h1>Profile README preview</h1>
 <p>Your real README, rendered by GitHub's own <code>/markdown</code> API, with
-Sooz swapped in for breakout.</p>
+the local build swapped in.</p>
 <p>{ok(kept, "&#10003; graphic survives the sanitizer", "&#10007; GRAPHIC STRIPPED")}
  &nbsp; {ok(has_picture, "&#10003; &lt;picture&gt; preserved", "&#10007; &lt;picture&gt; stripped")}</p>
 <ul>

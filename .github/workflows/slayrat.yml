@@ -3,7 +3,7 @@
 # Renders the contribution graph as Sooz slashing across it and publishes the
 # SVGs to the orphan `slayrat` branch, so the daily regenerated images never
 # touch main's history. The README points at that branch via
-# raw.githubusercontent.com. Mirrors the existing breakout job.
+# raw.githubusercontent.com.
 #
 # No secrets and no pip install: fetch_contrib.py reads the same public endpoint
 # the profile page renders, and gen.py is pure stdlib with the sprite strip
@@ -11,7 +11,7 @@
 name: generate slayrat svg
 on:
   schedule:
-    - cron: "20 4 * * *" # offset from the breakout job so they do not collide
+    - cron: "20 4 * * *"
   workflow_dispatch:
 permissions:
   contents: write
