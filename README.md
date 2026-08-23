@@ -1,6 +1,6 @@
-<div align="center">
+<h1 align="center">Matthew&nbsp;Fine</h1>
 
-<h1>Matthew&nbsp;Fine</h1>
+<div align="center">
 
 <p>
   <img src="https://img.shields.io/badge/role-observability%20engineer-F46800?style=for-the-badge&labelColor=181717" alt="Role: observability engineer">
@@ -36,10 +36,10 @@ Organiser of **[Grafana &amp; Friends Austin](https://www.meetup.com/grafana-fri
 
 ### What I'm building
 
-**[bambu-sync](https://github.com/chewrocca/bambu-sync)** &nbsp;<img src="https://img.shields.io/badge/Go-181717?logo=go&logoColor=00ADD8&style=flat-square" alt="Go"><br>
+**[bambu-sync](https://github.com/chewrocca/bambu-sync)**
 Prometheus exporter for the Bambu Lab Cloud API: print history, RFID filament inventory, MakerWorld favourites.
 
-**[Slay Rat](https://slayrat.com)** &nbsp;<img src="https://img.shields.io/badge/JavaScript-181717?logo=javascript&logoColor=F7DF1E&style=flat-square" alt="JavaScript"><br>
+**[Slay Rat](https://slayrat.com)**
 A subway rat with a rapier: you can't hurt people, only charm them. Vanilla JavaScript, no build step. The contribution graph below is her, [rendered](https://github.com/chewrocca/chewrocca/tree/main/github-slayrat) from the game's own sprite sheets and jump physics.
 
 ### Off the clock
